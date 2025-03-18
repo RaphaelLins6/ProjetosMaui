@@ -2,6 +2,10 @@
 
 E aí, galera!  Bem-vindos ao meu cantinho de exercícios do curso ".NET MAUI - Crie Apps para Android, iOS, Mac e Windows"! ️
 
+## Repositório do curso
+
+- https://github.com/Spacedu/MAUI2023
+
 ## O Que Tem Aqui? 
 
 Este repositório é tipo um playground onde guardo todos os exercícios que fiz durante o curso de .NET MAUI. Aqui você vai encontrar:
@@ -27,9 +31,6 @@ Com esses exercícios, você vai se aventurar em:
 3.  **Explore os exercícios:** Cada pasta é um novo desafio!
 4.  **Divirta-se:** O aprendizado é mais legal quando a gente se diverte, né?
 
-## Repositório do curso
-
-- https://github.com/Spacedu/MAUI2023
 ## Autores
 
 - [@RaphaelLins6](https://www.github.com/RaphaelLins6) 
