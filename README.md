@@ -27,10 +27,9 @@ Com esses exercícios, você vai se aventurar em:
 3.  **Explore os exercícios:** Cada pasta é um novo desafio!
 4.  **Divirta-se:** O aprendizado é mais legal quando a gente se diverte, né?
 
-## Contribua! 
+## Repositório do curso
 
-Se você tiver alguma sugestão, correção ou ideia de exercício, fique à vontade para abrir uma issue ou enviar um pull request. Vamos construir juntos um repositório cada vez mais completo e útil!
+- https://github.com/Spacedu/MAUI2023
+## Autores
 
-## Bora Codar! 
-
-Espero que este repositório seja útil para você na sua jornada de aprendizado do .NET MAUI. Se tiver alguma dúvida, é só me chamar!
+- [@RaphaelLins6](https://www.github.com/RaphaelLins6) 
