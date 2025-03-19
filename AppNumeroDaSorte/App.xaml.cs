@@ -1,15 +1,10 @@
-﻿namespace AppNumeroDaSorte
-{
-    public partial class App : Application
-    {
-        public App()
-        {
+﻿namespace AppNumeroDaSorte {
+    public partial class App : Application {
+        public App() {
             InitializeComponent();
-        }
 
-        protected override Window CreateWindow(IActivationState? activationState)
-        {
-            return new Window(new AppShell());
+            // Página atual
+            MainPage = new MainPage();
         }
     }
 }
