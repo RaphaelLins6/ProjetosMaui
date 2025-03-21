@@ -5,10 +5,15 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     BackgroundColor="White">
     <VerticalStackLayout>
+        <Image
+            HeightRequest="115"
+            Source="logo_green.png"
+            WidthRequest="74" />
         <Label
             HorizontalOptions="Center"
             Text="Número da sorte"
-            TextColor="Black"
+            TextColor="Green"
             VerticalOptions="Center" />
+        <Button HorizontalOptions="Center" Text="Gerar número da sorte" />
     </VerticalStackLayout>
 </ContentPage>
