@@ -3,12 +3,12 @@
     x:Class="AppNumeroDaSorte.MainPage"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    Background="black">
+    BackgroundColor="White">
     <VerticalStackLayout>
         <Label
-            Margin="10"
             HorizontalOptions="Center"
-            Text="Bem vindo ao MAUI!"
+            Text="Número da sorte"
+            TextColor="Black"
             VerticalOptions="Center" />
     </VerticalStackLayout>
 </ContentPage>
