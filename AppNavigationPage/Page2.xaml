@@ -12,11 +12,12 @@
             VerticalOptions="Center" />
         <Button
             Clicked="BtnProsseguir"
-            HorizontalOptions="End"
+            HorizontalOptions="Center"
             Text="Prosseguir" />
         <Button
             Clicked="BtnVoltar"
-            HorizontalOptions="Start"
-            Text="Prosseguir" />
+            HorizontalOptions="Center"
+            Text="Voltar"
+            VerticalOptions="Center" />
     </VerticalStackLayout>
 </ContentPage>

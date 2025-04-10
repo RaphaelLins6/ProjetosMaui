@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage
-    x:Class="AppNavigationPage.Page1"
+    x:Class="AppFlyoutPage.Menu"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    Title="Page1">
+    Title="Menu"
+    BackgroundColor="DarkSlateGray">
     <VerticalStackLayout>
         <Label
             FontSize="48"
             HorizontalOptions="Center"
-            Text="01"
+            Text="Menu"
             VerticalOptions="Center" />
-        <Button
-            Clicked="BtnVoltar"
-            HorizontalOptions="End"
-            Text="Prosseguir" />
     </VerticalStackLayout>
 </ContentPage>

@@ -10,5 +10,9 @@
             HorizontalOptions="Center"
             Text="03"
             VerticalOptions="Center" />
+        <Button
+            Clicked="BtnVoltar"
+            HorizontalOptions="Start"
+            Text="Voltar" />
     </VerticalStackLayout>
 </ContentPage>

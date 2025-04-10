@@ -7,7 +7,7 @@ public partial class Page1 : ContentPage
 		InitializeComponent();
 	}
 
-    private void Button_Clicked(object sender, EventArgs e) 
+    private void BtnVoltar(object sender, EventArgs e) 
 	{
 		Navigation.PushAsync(new Page2());
     }
