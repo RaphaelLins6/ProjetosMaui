@@ -63,4 +63,4 @@ Com esses exercícios, você vai se aventurar em:
 
 ## 👨‍💻 Autor
 
-- 🧑‍💻 [@RaphaelLins6](https://www.github.com/RaphaelLins6)
+- [@RaphaelLins6](https://www.github.com/RaphaelLins6)
