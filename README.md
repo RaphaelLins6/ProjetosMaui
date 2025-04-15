@@ -11,7 +11,7 @@ E aí, galera! 😄 Bem-vindos ao meu cantinho de exercícios do curso **".NET M
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60" />
   &nbsp;&nbsp;
-  <img src="https://e7.pngegg.com/pngimages/731/384/png-clipart-visual-studio-full-logo-tech-companies.png" alt="Visual Studio" width="60" height="60" />
+  <img src="https://e7.pngegg.com/pngimages/731/384/png-clipart-visual-studio-full-logo-tech-companies.png" alt="Visual Studio" width="100" height="60" />
   &nbsp;&nbsp;
 </p>
 
