@@ -7,7 +7,7 @@ E aí, galera! 😄 Bem-vindos ao meu cantinho de exercícios do curso **".NET M
 ## 🛠️ Tecnologias Utilizadas
 
 <p align="center">
-  <img src="https://static-00.iconduck.com/assets.00/dotnet-icon-2048x2048-6nj1im30.png" alt=".NET" width="60" height="60" />
+  <img src="https://styles.redditmedia.com/t5_2odyx7/styles/communityIcon_19sk0x18irz41.png" alt=".NET-MAUI" width="60" height="60" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60" />
   &nbsp;&nbsp;
