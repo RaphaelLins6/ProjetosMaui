@@ -7,13 +7,12 @@ E aí, galera! 😄 Bem-vindos ao meu cantinho de exercícios do curso **".NET M
 ## 🛠️ Tecnologias Utilizadas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="60" />
+  <img src="https://static-00.iconduck.com/assets.00/dotnet-icon-2048x2048-6nj1im30.png" alt=".NET" width="60" height="60" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60" />
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Icon_2022.svg" alt="Visual Studio" width="60" />
+  <img src="https://e7.pngegg.com/pngimages/731/384/png-clipart-visual-studio-full-logo-tech-companies.png" alt="Visual Studio" width="60" height="60" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" />
 </p>
 
 ---
