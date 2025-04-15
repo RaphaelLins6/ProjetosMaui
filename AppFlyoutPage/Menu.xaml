@@ -11,5 +11,20 @@
             HorizontalOptions="Center"
             Text="Menu"
             VerticalOptions="Center" />
+        <Button
+            BackgroundColor="Transparent"
+            Clicked="Button_Clicked"
+            Text="Pág 1"
+            TextColor="Black" />
+        <Button
+            BackgroundColor="Transparent"
+            Clicked="Button_Clicked_1"
+            Text="Pág 2"
+            TextColor="Black" />
+        <Button
+            BackgroundColor="Transparent"
+            Clicked="Button_Clicked_2"
+            Text="Pág 3"
+            TextColor="Black" />
     </VerticalStackLayout>
 </ContentPage>
