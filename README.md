@@ -64,3 +64,9 @@ Com esses exercícios, você vai se aventurar em:
 ## 👨‍💻 Autor
 
 - [@RaphaelLins6](https://www.github.com/RaphaelLins6)
+
+## 📜 Licença
+
+Este projeto é livre para uso e modificação. Contribuições são bem-vindas! 😊
+
+---
