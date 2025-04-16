@@ -8,14 +8,14 @@ public partial class Menu : ContentPage
 	}
 
     private void Button_Clicked(object sender, EventArgs e) {
-        ((FlyoutPage)App.Current.MainPage).Detail = new Pag1();
+        ((FlyoutPage)App.Current.MainPage).Detail = new NavigationPage(new Pag1());
     }
 
     private void Button_Clicked_1(object sender, EventArgs e) {
-        ((FlyoutPage)App.Current.MainPage).Detail = new Pag2();
+        ((FlyoutPage)App.Current.MainPage).Detail = new NavigationPage(new Pag2());
     }
 
     private void Button_Clicked_2(object sender, EventArgs e) {
-        ((FlyoutPage)App.Current.MainPage).Detail = new Pag3();
+        ((FlyoutPage)App.Current.MainPage).Detail = new NavigationPage(new Pag3());
     }
 }

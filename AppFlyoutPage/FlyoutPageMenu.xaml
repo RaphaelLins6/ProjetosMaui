@@ -14,6 +14,10 @@
 
     <FlyoutPage.Detail>
         <!--  Página do conteúdo central  -->
-        <pages:Pag1 />
+        <NavigationPage>
+            <x:Arguments>
+                <pages:Pag1 />
+            </x:Arguments>
+        </NavigationPage>
     </FlyoutPage.Detail>
 </FlyoutPage>
