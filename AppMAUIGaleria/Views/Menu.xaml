@@ -3,7 +3,8 @@
     x:Class="AppMAUIGaleria.Views.Menu"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    Title="Menu">
+    Title="Menu"
+    BackgroundColor="#FF5900">
     <VerticalStackLayout Spacing="10">
 
         <Label
@@ -14,11 +15,11 @@
             Text="MAUI Galeria"
             VerticalOptions="Center" />
 
-        <Label Margin="10,0,0,10" Text="Início" />
-        <Label Margin="10,0,0,10" Text="Criar campeonato" />
-        <Label Margin="10,0,0,10" Text="Atleta" />
+        <Label Margin="10,0,0,0" Text="Início" />
+        <Label Margin="10,0,0,0" Text="Criar campeonato" />
+        <Label Margin="10,0,0,0" Text="Atleta" />
 
-        <VerticalStackLayout x:Name="MenuContainer" Margin="10,10,0,0" />
+        <VerticalStackLayout x:Name="MenuContainer" Margin="10,10" />
 
     </VerticalStackLayout>
 </ContentPage>
